@@ -34,7 +34,7 @@ class _TextLayerOverlayState extends State<TextLayerOverlay> {
     double height=MediaQuery.of(context).size.height;
     
     return Container(
-      height: height*0.6,
+      height: height*0.7,
       decoration: const BoxDecoration(
         color: Colors.black87,
         borderRadius: BorderRadius.only(
